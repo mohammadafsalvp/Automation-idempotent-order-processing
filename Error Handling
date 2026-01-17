@@ -1,0 +1,5 @@
+Business errors → never retried
+
+System errors → retried with exponential backoff
+
+Retry behavior is fully configurable
