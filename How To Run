@@ -1,0 +1,5 @@
+1. Start the Local API
+python3 scripts/app.py
+
+2. Run the Automation Bot
+python3 scripts/bot.py
