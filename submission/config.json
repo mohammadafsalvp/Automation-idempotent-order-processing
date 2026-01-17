@@ -1,0 +1,9 @@
+{
+    "api_host": "127.0.0.1",
+    "api_port": 8080,
+    "retry_attempts": 3,
+    "retry_backoff_ms": 1000,
+    "allowed_currencies": ["USD", "EUR", "AED"],
+    "business_date_window_days": 7,
+    "report_decimal_places": 2
+}

@@ -1,0 +1,5 @@
+CustomerID,CustomerName,Status
+C001,Alice,Active
+C002,Bob,Active
+C003,Charlie,Active
+C004,David,Inactive

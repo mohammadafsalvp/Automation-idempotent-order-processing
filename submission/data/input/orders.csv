@@ -1,0 +1,10 @@
+OrderID,CustomerID,Amount,Currency,Email,BusinessDate
+1001,C001,100.50,USD,user1@example.com,2026-01-07
+1002,C002,200.00,EUR,user2@example.com,2026-01-07
+1003,C003,50.00,GBP,user3@example.com,2026-01-07
+1004,C001,-10.00,USD,user1@example.com,2026-01-07
+1005,C004,300.00,USD,user4@example.com,2026-01-07
+1006,C001,150.00,USD,invalid-email,2026-01-07
+1001,C001,100.50,USD,user1@example.com,2026-01-07
+1007,C001,120.00,USD,user1@example.com,2025-01-01
+1008,C001,500.00,USD,user1@example.com,2026-01-07

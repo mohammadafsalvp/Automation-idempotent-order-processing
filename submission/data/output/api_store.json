@@ -1,0 +1,26 @@
+{
+  "1001_2026-01-07": {
+    "OrderID": "1001",
+    "CustomerID": "C001",
+    "Amount": "100.50",
+    "Currency": "USD",
+    "Email": "user1@example.com",
+    "BusinessDate": "2026-01-07"
+  },
+  "1002_2026-01-07": {
+    "OrderID": "1002",
+    "CustomerID": "C002",
+    "Amount": "200.00",
+    "Currency": "EUR",
+    "Email": "user2@example.com",
+    "BusinessDate": "2026-01-07"
+  },
+  "1008_2026-01-07": {
+    "OrderID": "1008",
+    "CustomerID": "C001",
+    "Amount": "500.00",
+    "Currency": "USD",
+    "Email": "user1@example.com",
+    "BusinessDate": "2026-01-07"
+  }
+}

@@ -1,0 +1,11 @@
+2026-01-07T08:47:01Z START {"api_host": "127.0.0.1", "api_port": 8080, "retry_attempts": 3, "retry_backoff_ms": 1000, "allowed_currencies": ["USD", "EUR", "AED"], "business_date_window_days": 7, "report_decimal_places": 2}
+2026-01-07T08:47:01Z SUCCESS OrderID=1001
+2026-01-07T08:47:01Z SUCCESS OrderID=1002
+2026-01-07T08:47:01Z BUSINESS_ERR:currency_invalid OrderID=1003
+2026-01-07T08:47:01Z BUSINESS_ERR:amount_invalid OrderID=1004
+2026-01-07T08:47:01Z BUSINESS_ERR:customer_inactive OrderID=1005
+2026-01-07T08:47:01Z BUSINESS_ERR:email_invalid OrderID=1006
+2026-01-07T08:47:01Z BUSINESS_ERR:duplicate_in_run OrderID=1001
+2026-01-07T08:47:01Z BUSINESS_ERR:date_window_exceeded OrderID=1007
+2026-01-07T08:47:01Z SUCCESS OrderID=1008
+2026-01-07T08:47:01Z END Success=3 Skipped=0 Errors=6
